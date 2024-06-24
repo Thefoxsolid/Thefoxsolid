@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Francisco.martinezoyaneder@gmail.com**
-
 - ⚡ Fun fact **I like to read books and play videogames, I play the guitar too**
 
 <h3 align="left">Connect with me:</h3>
